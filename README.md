@@ -1,8 +1,8 @@
 # Bleusz
 
-I build software. Most of it stays private. The repos below are the ones I am happy for anyone to open.
+Software in Python, TypeScript, C++ and C#. The public work here is a **paper trading** lab — simulated portfolios, ETF rebalancing, delayed market data. No live broker. Not investment advice.
 
-### [paper-invest](https://github.com/Bleuszz/paper-invest)
-A paper-only investment lab. Simulated cash, delayed market data, a boring core/satellite mix. It is not a broker and it is not advice — just a public notebook for how a book *could* be run without touching live money.
+## Public project
 
-Python day to day. TypeScript, C++ and C# when the problem asks for them.
+**[paper-invest](https://github.com/Bleuszz/paper-invest)** — Python paper-trading engine.
+A core/satellite book on liquid ETFs (`VOO`, `VXUS`, `BND`, `QQQ`, `GLD`), a local ledger with costs, weekday GitHub Actions, and a delayed-data backtest. Simulated cash only.
