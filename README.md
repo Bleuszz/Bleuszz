@@ -1,8 +1,6 @@
 # Bleusz
 
-Year 11, UK. Building with TypeScript, Python, C++ and C#.
-
-## Stack
+Year 11, UK. TypeScript, Python, C++, C#.
 
 VS Code · Replit · Cloudflare · names.co.uk
 
@@ -11,14 +9,14 @@ VS Code · Replit · Cloudflare · names.co.uk
 | Repo | Visibility | Role |
 |---|---|---|
 | [paper-autoinvest](https://github.com/Bleuszz/paper-autoinvest) | private | Simulated core/satellite paper book. No live broker. |
-| [BLEUSZ](https://github.com/Bleuszz/BLEUSZ) | private | Local music-player UI (Web Audio). |
-| [callcatch](https://github.com/Bleuszz/callcatch) | private | Agency site for CallCatch. |
+| [BLEUSZ](https://github.com/Bleuszz/BLEUSZ) | private | Local music-player UI (Web Audio). Player files only. |
+| [callcatch](https://github.com/Bleuszz/callcatch) | private | CallCatch agency site. |
 | [thermal-labels](https://github.com/Bleuszz/thermal-labels) | private | 4×6\" B&W thermal label layouts. |
-| [Logger](https://github.com/Bleuszz/Logger) | private | Small structured logger (Python). |
+| [Logger](https://github.com/Bleuszz/Logger) | private | Structured JSON-lines logger (Python). |
 
-## Rules for this account
+## Rules
 
-- One concern per repo. Do not dump unrelated experiments into an existing project.
-- Private by default. Public only when the README is honest and there are no secrets.
-- Never commit `.env`, API keys, binaries, or packed executables.
+- One concern per repo.
+- Private by default.
+- No `.env`, API keys, or binaries in git.
 - `paper-autoinvest` stays paper-only unless a later message explicitly says LIVE.
