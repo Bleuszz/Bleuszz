@@ -1,22 +1,8 @@
 # Bleusz
 
-Year 11, UK. TypeScript, Python, C++, C#.
+I build software. Most of it stays private. The repos below are the ones I am happy for anyone to open.
 
-VS Code · Replit · Cloudflare · names.co.uk
+### [paper-invest](https://github.com/Bleuszz/paper-invest)
+A paper-only investment lab. Simulated cash, delayed market data, a boring core/satellite mix. It is not a broker and it is not advice — just a public notebook for how a book *could* be run without touching live money.
 
-## Repos
-
-| Repo | Visibility | Role |
-|---|---|
-| [paper-invest](https://github.com/Bleuszz/paper-invest) | **public** | Simulated core/satellite paper book. No live broker. |
-| [paper-autoinvest](https://github.com/Bleuszz/paper-autoinvest) | private | Original private copy of the same lab. |
-| [BLEUSZ](https://github.com/Bleuszz/BLEUSZ) | private | Local music-player UI (Web Audio). |
-| [callcatch](https://github.com/Bleuszz/callcatch) | private | CallCatch agency site. |
-| [thermal-labels](https://github.com/Bleuszz/thermal-labels) | private | 4×6\" B&W thermal label layouts. |
-| [Logger](https://github.com/Bleuszz/Logger) | private | Structured JSON-lines logger (Python). |
-
-## Rules
-
-- One concern per repo.
-- No `.env`, API keys, or binaries in git.
-- Paper lab stays paper-only unless a later message explicitly says LIVE.
+Python day to day. TypeScript, C++ and C# when the problem asks for them.
